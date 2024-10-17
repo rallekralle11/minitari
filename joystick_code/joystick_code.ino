@@ -41,9 +41,9 @@ void loop() {
   }
 
   if(!digitalRead(22)){
-    Keyboard.press(KEY_RETURN);
+    Keyboard.press(0x20);
   }
   else{
-    Keyboard.release(KEY_RETURN);
+    Keyboard.release(0x20);
   }
 }

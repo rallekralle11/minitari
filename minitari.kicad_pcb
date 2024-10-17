@@ -3520,7 +3520,7 @@
 			(pintype "passive")
 			(uuid "8a73720d-ad85-4804-9483-1a72536cde3f")
 		)
-		(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_P0.5mm_EP5.15x5.15mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
